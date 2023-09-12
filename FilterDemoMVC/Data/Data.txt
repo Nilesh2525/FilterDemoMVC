@@ -1,0 +1,24 @@
+﻿
+Before Action execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:48 AM
+After Action execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:48 AM
+----------------------------------
+
+Before Result execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:48 AM
+After Result execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:49 AM
+----------------------------------
+
+Before Action execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Privacy (FilterDemoMVC)->9/12/2023 11:05:54 AM
+After Action execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Privacy (FilterDemoMVC)->9/12/2023 11:05:54 AM
+----------------------------------
+
+Before Result execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Privacy (FilterDemoMVC)->9/12/2023 11:05:54 AM
+After Result execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Privacy (FilterDemoMVC)->9/12/2023 11:05:54 AM
+----------------------------------
+
+Before Action execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:56 AM
+After Action execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:56 AM
+----------------------------------
+
+Before Result execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:56 AM
+After Result execution->FilterDemoMVC.Controllers.HomeController->FilterDemoMVC.Controllers.HomeController.Index (FilterDemoMVC)->9/12/2023 11:05:56 AM
+----------------------------------
